@@ -1,1 +1,1 @@
-Rails demo app for UET Code Camp
+## Rails demo app for UET Code Camp
